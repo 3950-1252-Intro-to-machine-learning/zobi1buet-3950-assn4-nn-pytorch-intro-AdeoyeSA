@@ -13,7 +13,7 @@ Instructions:
 3. Open the project folder in VS Code or Jupyter Notebook
 4. Ensure `fraudTrain.csv` is in the same directory as the notebook
 5. Run the notebook from top to bottom
-
+6. Both training and prediction are included
 
 
 
