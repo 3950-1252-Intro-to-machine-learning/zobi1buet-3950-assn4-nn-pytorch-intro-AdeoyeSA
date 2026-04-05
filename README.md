@@ -2,18 +2,19 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23403416&assignment_repo_type=AssignmentRepo)
 # 3950_Asn_4_Students
 Starting point for assignment 4. 
-## 📦 Dataset & Model Files (Google Drive)
+## Assignment 4 – Neural Network (PyTorch)
 
-Due to GitHub file size limitations, the dataset and trained model files are not included in this repository.
+Google Drive link (contains dataset and project files):
+https://drive.google.com/drive/folders/13YgWN3SKp6SZaIcleY5RNDnFLx5W1mwH?usp=sharing
 
-Please download all required files from the link below:
-https://drive.google.com/drive/folders/1Vxgu0z6BfegZyLy-gHhJQ2bs7ebS6TEb?usp=sharing
+Instructions:
+1. Download the folder from Google Drive
+2. Extract/unzip if needed
+3. Open the project folder in VS Code or Jupyter Notebook
+4. Ensure `fraudTrain.csv` is in the same directory as the notebook
+5. Run the notebook from top to bottom
 
-### Files included:
-- fraudTrain.csv (dataset)
-- fraud_mlp_state_dict.pt (PyTorch model weights)
-- fraud_scaler.joblib (feature scaler)
-- fraud_encoder.joblib (categorical encoder)
+
 
 
 
