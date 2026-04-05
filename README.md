@@ -2,8 +2,23 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23403416&assignment_repo_type=AssignmentRepo)
 # 3950_Asn_4_Students
 Starting point for assignment 4. 
-# 3950_Asn_4_Students
-Starting point for assignment 4.
+## 📦 Dataset & Model Files (Google Drive)
 
-## Dataset (Google Drive)
-https://drive.google.com/file/d/1t8yzn2kzJd_Niwv3YUR6EVbrA2MmiupC/view?usp=sharing
+Due to GitHub file size limitations, the dataset and trained model files are not included in this repository.
+
+Please download all required files from the link below:
+https://drive.google.com/drive/folders/1Vxgu0z6BfegZyLy-gHhJQ2bs7ebS6TEb?usp=sharing
+
+### Files included:
+- fraudTrain.csv (dataset)
+- fraud_mlp_state_dict.pt (PyTorch model weights)
+- fraud_scaler.joblib (feature scaler)
+- fraud_encoder.joblib (categorical encoder)
+
+
+
+
+
+The dataset and model files are too large to upload to GitHub.  
+They have been provided via the Google Drive link above.  
+Please use the link to access all required files for running the project.
